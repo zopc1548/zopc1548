@@ -21,11 +21,11 @@
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=2BA977"/>
-    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=0b5394"/>
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff"/>
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=3d85c6"/>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff"/>
   </div>
 </div>
 
