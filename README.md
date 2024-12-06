@@ -24,6 +24,7 @@
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=e69138"/>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=3d85c6"/>
   </div>
 </div>
 
