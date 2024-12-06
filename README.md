@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=0b5394"/>
   </div>
   <div align="center">
-    <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=flask&logoColor=e69138"/>
+    <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=ec2&logoColor=e69138"/>
   </div>
 </div>
 
