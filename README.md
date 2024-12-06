@@ -1,10 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=zopc1548's%20Github&fontSize=40&fontAlignY=40" width="100%"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zopc1548&show_icons=true&theme=transparent"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zopc1548&layout=compact"/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zopc1548&show_icons=true&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zopc1548&layout=compact"/>
+  </div>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zopc15483&theme=transparent&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  </div>
 </div>
 
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   
 </div>
