@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zopc1548&layout=compact"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zopc1548&layout=compact"/>
+</div>
+
+<div align="center">
+ [![zopc1548 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zopc1548&show_icons=true&theme=default#gh-light-mode-only)]
 </div>
 
 <!--
