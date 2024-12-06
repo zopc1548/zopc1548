@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
- [![zopc1548 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zopc1548&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+ <img src=![zopc1548 GitHub stats](https://github-readme-stats.vercel.app/api?username=zopc1548&show_icons=true&theme=transparent)/>
 </div>
 
 <!--
