@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zopc1548&layout=compact"/>
   </div>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zopc1548&theme=transparent&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80%/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zopc1548&theme=transparent" width=80%/>
   </div>
 </div>
 
